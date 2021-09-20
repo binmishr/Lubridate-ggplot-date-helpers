@@ -17,3 +17,5 @@ yday(Sys.Date())
 This site is a great resource for more date formats. Otherwise, you can view the lubridate website for guides.
 
 Great, so far. However, most folk like their axis labels spelt out for them and prefer to see month labels on an annual axis instead of a numeric day. Let’s grab some data to demonstrate. 
+
+Python strftime Documentation: https://strftime.org/
